@@ -1,0 +1,26 @@
+article{
+	width:386px;
+	height: 95px; 
+}
+img{
+	width: 112px;
+	height: 65px;
+	float: left;
+	margin-right: 10px;
+}
+div a{
+	text-decoration: none;
+	color: blue;
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: bold;
+}
+div a:hover{
+	color: red;
+	text-decoration: underline;
+}
+p{
+	font-family: tahoma;
+	font-size: 15px;
+	line-height: 15px;
+}

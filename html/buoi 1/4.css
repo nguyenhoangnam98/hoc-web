@@ -1,0 +1,36 @@
+div h1{
+	color: violet;
+}
+.anh{
+	float: left;
+	font-family: tahoma;
+
+}
+.anh{
+	width: 190px;
+	height: 216px;
+	margin-right: 15px;
+}
+.anh img{
+	width: 190px;
+}
+._6anh{
+	height: 350px;
+	width: 920px;
+	overflow: auto;
+
+}	
+.tong{
+	width: 920px;
+	margin: auto;
+}
+.anh a{
+	font-family: tahoma;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.anh p{
+	font-family: tahoma;
+	color: grey;
+}

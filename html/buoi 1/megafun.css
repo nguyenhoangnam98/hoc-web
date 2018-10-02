@@ -1,0 +1,51 @@
+article.tinnho {
+	width: 334px;
+	height: 270px;
+	border: 2px solid red;
+	float: left;
+	margin-right: 10px;
+}
+.tinnho img{
+width: 100%;
+}
+.tdtinnho{
+	text-decoration: none;
+	font-family: tohoma;
+	font-size: 15px;
+	color: blue;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10x;
+	display: block;
+	padding-top: 10px;
+}
+.thongtin{
+	font-family: tahoma;
+	font-size: 10px;
+	padding-top: 4px;
+}
+/**/
+article.tinto{
+	width: 670px;
+	overflow: hidden;
+	padding-bottom: 30px;
+}
+article.tinto img{
+	width: 380px;
+	float: left;
+	margin-right: 10px;
+}
+p.nd{
+	font-family: tahoma;
+	font-size: 13px;
+	line-height: 20px;
+	padding-bottom: 35px;
+}
+a.tacgia{
+	text-align: center;
+	display: block;
+	color: blue;
+	font-style: italic;
+	font-family: tahoma;
+	text-decoration: none;
+}

@@ -1,0 +1,20 @@
+.nho{
+	width: 102px;
+	height: 102px;
+	float: left;
+	padding-right: 5px;
+}
+.nho img{
+	width: 102px;
+	height: 68px;
+}
+.nho .td{
+	text-decoration: none;
+	font-family: tahoma;
+	font-size: 13px;
+	color: grey;
+	line-height: 20px;
+}
+#tong{
+	width: 214px;
+}

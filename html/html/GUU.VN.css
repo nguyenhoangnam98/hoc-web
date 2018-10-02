@@ -1,0 +1,229 @@
+
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.tieude {
+	display: flex;
+
+}
+article a.GUU h1{
+	color: black;
+    margin-left: 100px;
+
+}
+div.tieude{
+    margin: -60px;
+    color: black;
+    margin-left: 750px;
+}
+div a{
+	color: black;
+	margin: 10px;
+}
+
+div a p{
+		border: 2px solid #B71616;
+		padding: 10px;	
+		position: relative;
+		 top: -13px;
+
+}	
+ article a h1{
+	font-size: 3.5em;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+article a:hover{
+    color: #B71616;
+    text-decoration: none;
+}
+article a h1:hover{
+    color: #B71616;
+    text-decoration: none;
+}
+article.danhmuc{
+	margin-left: 110px;
+	font-family:Helvetica, Arial, Sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+--------------------------------------------------------
+.vuongto{
+	width: 100%;
+	height: auto;
+	display: block;
+}
+.layer1{
+	width: 100%;
+	height: auto;
+	margin-left: -10px;
+}
+.layer3{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	bottom: 0px;
+	font-size: 22px;
+	font-family: inherit;
+	color: white;
+	font-weight: bold;
+	padding: 2px 5px;
+	transition: 0.5s;
+	background: #000;
+	opacity: 0.5;
+	border-right: 4px solid white;
+}
+.boxto:hover .layer3 ,.boxnho:hover .layer3{
+	opacity: 1;
+	border-left: 10px solid green;
+}
+#news {
+	width: 100%;
+	padding:  0px 5%;
+		margin-left: 30px;
+}
+.boxto {
+	width: 100%;
+	height: auto;
+}
+.boxnho{
+	width: 50%;
+	height: auto;
+	float: left;
+}
+.boxto, .boxnho{
+	position: relative;
+	overflow: hidden;
+	padding: 2px 2px;
+}
+.new-l, .new-r {
+	float: left;
+}
+.new-l{
+	width: 50%;
+}
+.new-r{
+	width: 50%;
+}
+/* Menu drop */
+.down{
+	position: relative;
+	display: inline-block;
+}
+.down-c{
+	position: absolute;
+	display: none;
+	background: #B81B1B;
+	min-width: 100%;
+}
+.down-c a{
+	display: block;
+}
+.down:hover .down-c{
+	display: block;
+}
+div#nav ul{
+	list-style-type: none;
+}
+div#nav ul li{
+	display: inline-block;
+}
+ul.down-c{
+	list-style-type: none;
+}
+------------------------------------------
+article.tin{
+width: 992px;
+height:  464px;
+}
+.blognew{
+		margin-left: 100px;
+
+}
+
+.tren, .img-post, .giua, .duoi{
+	width: 362px;
+
+}
+.tren{
+	float: left;
+	width: 362px;
+	position: relative;
+}
+a{
+	text-decoration: none;
+}
+.img-post{
+
+	height: auto;
+}
+.lbl-guu{
+	position: absolute;
+	top: 0px;
+	background: #C32424;
+	color: #fff;
+	padding: 5px 30px;
+	margin:0px;
+}
+.nguoi-viet{
+	float: left;
+}
+.nguoi-viet img{
+	width: 30px;
+	height: auto;
+	border-radius: 50%;
+	position: relative;
+	left: -3px;
+}
+.nguoi-viet span{
+	font-weight: bold;
+}
+.thich{
+	float: right;
+	background: #2A2EE2;
+	color: #fff;
+	padding: 3px 10px;
+	border-radius: 5px;
+}
+.duoi{
+	clear: both;
+}
+.tieu-de{
+	font-weight: bold;
+	color: #000;
+	font-size: 25px;
+	margin: 0px;
+}
+.noi-dung{
+	color: gray;
+}
+article.tin .tren .layer7{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	background: white;
+	z-index: 2;
+    top: 196px;
+    left: 14px;
+	transform: rotate(45deg);
+
+
+}
+.tuongvi{
+	font-weight: bold;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    position: relative;
+    top: 15px;
+    left: -18px;
+}
+.blognew{
+	width: 990px;
+	display: block;
+}
+article .tin{
+	float: left;
+	margin: 10px;
+}

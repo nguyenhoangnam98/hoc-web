@@ -1,0 +1,30 @@
+.bo{
+	position: relative;
+	width: 350px;
+	height: 350px;
+	background: #414141;
+}
+.xanh{
+	position: absolute;
+	top: 50px;
+	left: 150px;
+	width: 30px;
+	height: 30px;
+	background: green;
+}
+.do{
+	position: absolute;
+	top: 100px;
+	right: 100px;
+	width: 30px;
+	height: 30px;
+	background: red;
+}
+.vang{
+	position: absolute;
+	top: 320px;
+	width: 30px;
+	width: 30px;
+	height: 30px;
+	background: yellow;
+}

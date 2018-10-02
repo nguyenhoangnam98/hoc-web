@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.to{
+	width: 100%;
+	height: 700px;
+	position: relative;
+}
+.to .layer1{
+	transition: 2s;
+}
+.to:hover .layer1{
+	transform: scale(2);
+}
+.to .layer2{
+	position: absolute;
+	top: 350px;
+	left: 50%;
+	font-size: 30px;
+	color: white;
+}
